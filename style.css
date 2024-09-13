@@ -1,0 +1,22 @@
+* {
+    font-family: cursive;
+    color: #fc6067;
+}
+
+.container {
+    margin-top: 5%;
+    padding: 2%;
+}
+
+.row {
+    margin-bottom: 2%;
+}
+
+.row,
+.col-6 label {
+    padding: 2%;
+}
+
+.col-6 label {
+    font-size: 20px;
+}
